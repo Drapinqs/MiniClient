@@ -12,4 +12,9 @@ Current Features:
 - Show FPS option
 - Draggable menus
 
+# Installation
+- [Browser/Linux/MacOS](https://greasyfork.org/en/scripts/501877-miniclient-syringe) (needs tampermonkey script)
+- [Windows](https://github.com/Drapinqs/MiniClient/releases)
+
  ![miniclient75](https://github.com/user-attachments/assets/f217a54f-cc88-43d8-95f2-f3ee7462ec81)
+
